@@ -5,4 +5,4 @@ This repo is a mod for [Starbound](https://playstarbound.com/), based on top of 
 - [Molten Liquids tabs for Furnace](https://steamcommunity.com/sharedfiles/filedetails/?id=2895554927) 
 
 This mod does the following:
-- Provides compatability between my new Furnace tabs for liquids and Frackin' Universe's Fission Furnace 
+- Provides compatability between my new Furnace tabs for liquids and Frackin' Universe's Fission Furnace
