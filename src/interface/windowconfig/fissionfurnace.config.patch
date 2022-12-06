@@ -1,0 +1,47 @@
+[
+  //Add vanilla UI elements
+  {
+    "op" : "add",
+    "path" : "/paneLayout/lblSmeltTab",
+    "value" : {
+      "type" : "image",
+      "file" : "/interface/crafting/tabicon_smelt.png",
+      "position" : [76, 223],
+      "zlevel" : 3
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/paneLayout/lblCoalesceTab",
+    "value" : {
+      "type" : "image",
+      "file" : "/interface/crafting/tabicon_coalesce.png",
+      "position" : [118, 223],
+      "zlevel" : 3
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/paneLayout/categories/buttons/-",
+    "value" : {
+      "position" : [71, 221],
+      "baseImage" : "/interface/crafting/unselectedTab-wider.png",
+      "baseImageChecked" : "/interface/crafting/selectedTab-wider.png",
+      "data" : {
+        "filter" : [ "smelt" ]
+      }
+    }
+  },
+  {
+    "op" : "add",
+    "path" : "/paneLayout/categories/buttons/-",
+    "value" : {
+      "position" : [112, 221],
+      "baseImage" : "/interface/crafting/unselectedTab-wider.png",
+      "baseImageChecked" : "/interface/crafting/selectedTab-wider.png",
+      "data" : {
+        "filter" : [ "coalesce" ]
+      }
+    }
+  }
+]
