@@ -1,4 +1,4 @@
-# Starbound-bardez-furnace-liquids-frackin
+# Starbound-bardez-furnace-liquids-patch-fission-furnace
 
 This repo is a mod for [Starbound](https://playstarbound.com/), based on top of the following mods:
 - [Frackin' Universe](https://steamcommunity.com/sharedfiles/filedetails/?id=729480149) 
